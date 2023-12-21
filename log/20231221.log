@@ -1,0 +1,133 @@
+2023-12-21 13:31:08,305  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:31:08,305  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:31:08,305  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 13:31:08,319  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 13:31:08,369  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 13:31:08,371  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:31:08,371  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:31:08,371  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:31:08,371  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:31:08,372  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 13:31:08,372  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 13:32:09,136  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:32:09,136  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:32:09,136  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 13:32:09,146  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 13:32:09,189  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 13:32:09,191  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:32:09,191  test_dmi.py 27  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 13:32:09,191  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:32:09,191  test_dmi.py 28  INFO : 请求参数代码为===》000530.sz
+2023-12-21 13:32:09,191  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 13:32:09,191  test_dmi.py 36  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:22:13,099  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:22:13,099  Api_method.py 18  INFO : 请求路径：http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:13,101  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:22:13,899  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:22:13,900  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:13,900  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:13,900  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:22:13,900  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:22:13,900  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:22:13,900  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:22:13,906  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:22:13,906  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:22:13,906  Api_method.py 18  INFO : 请求路径：http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:13,906  Api_method.py 18  INFO : 请求路径：http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:13,907  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:22:13,907  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:22:14,023  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:22:14,023  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:22:14,025  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:14,025  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:14,025  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:22:14,025  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:22:14,025  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:22:14,025  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:22:14,026  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:22:14,026  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:22:14,026  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:23:04,475  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:23:04,476  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:23:04,500  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:23:04,500  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:23:04,500  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:23:04,501  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:23:04,501  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:23:04,501  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:23:04,501  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:23:04,528  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:23:04,528  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 14:23:04,529  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:23:04,529  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 14:23:04,588  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:23:04,588  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 14:23:04,590  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:23:04,590  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:23:04,590  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 14:23:04,590  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:23:04,590  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:23:04,590  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 14:23:04,591  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:23:04,591  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 14:23:04,591  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:13:15,738  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:13:15,740  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:13:15,763  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:13:15,764  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:13:15,764  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:13:15,764  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:13:15,764  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:13:15,764  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:13:15,764  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:14:25,681  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:14:25,683  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:14:25,804  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:14:25,806  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:14:25,806  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:14:25,806  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:14:25,806  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:14:25,806  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:14:25,806  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:15:31,479  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:15:31,481  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:15:31,528  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:15:31,530  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:15:31,530  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:15:31,530  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:15:31,530  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:15:31,530  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:15:31,530  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:16:33,665  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:16:33,667  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:16:33,730  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:16:33,731  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:16:33,731  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:16:33,732  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:16:33,732  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:16:33,732  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:16:33,732  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:17:25,259  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:17:25,261  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:17:25,282  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:17:25,283  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:17:25,283  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:17:25,283  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:17:25,283  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:17:25,283  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:17:25,283  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:19:06,471  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:19:06,473  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:19:06,490  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:19:06,491  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:19:06,491  test_dmi.py 26  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:19:06,492  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:19:06,492  test_dmi.py 27  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:19:06,492  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:19:06,492  test_dmi.py 35  INFO : 列表中不存在重复元素：====》True
+2023-12-21 15:45:27,776  Api_method.py 17  INFO : 请求方式：GET
+2023-12-21 15:45:27,778  connectionpool.py 244  DEBUG : Starting new HTTP connection (1): 114.80.155.47:22013
+2023-12-21 15:45:27,917  connectionpool.py 546  DEBUG : http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 52
+2023-12-21 15:45:27,918  test_dmi.py 25  INFO : 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+2023-12-21 15:45:27,918  test_dmi.py 26  INFO : 请求参数代码为===》000530.sz
+2023-12-21 15:45:27,918  test_dmi.py 34  INFO : 列表中不存在重复元素：====》True

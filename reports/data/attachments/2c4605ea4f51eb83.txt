@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:228 Starting new HTTP connection (1): 114.80.155.47:22013
+DEBUG    urllib3.connectionpool:connectionpool.py:456 http://114.80.155.47:22013 "GET /v2/newsinteractive HTTP/1.1" 200 3373
+INFO     root:test_dmi.py:27 请求接口为===》http://114.80.155.47:22013/v2/newsinteractive
+INFO     root:test_dmi.py:28 请求参数代码为===》000530.sz
+INFO     root:test_dmi.py:36 列表中不存在重复元素：====》True

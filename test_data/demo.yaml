@@ -1,0 +1,4 @@
+- ['name','appid','secret','grant_type','assert_str']
+- ['检查appid为空',100,'8326fvh563g2546267ge2522546363gd6686','client_credential',40013]
+- ['检查secret为空','wx8a9de038e93f77ab','','client_credential',40014]
+- ['成功获取token鉴权码','wx8a9de038e93f77ab','8326fvh563g2546267ge2522546363gd6686','client_credential',40015]

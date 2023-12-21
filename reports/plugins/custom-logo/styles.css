@@ -1,0 +1,14 @@
+.side-nav__brand {
+  background: url('allure_logo.jpg') no-repeat left center !important;
+  margin-left: 6px;
+  height: 90px;
+}
+.side-nav__brand span{
+  display: none;
+}
+.side-nav__brand:after{
+     content: "赵公子";
+    margin-left: 85px;
+    font-size: 16px;
+    line-height: 89px;
+}

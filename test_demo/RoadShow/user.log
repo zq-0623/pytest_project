@@ -1,0 +1,137 @@
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get', 'param': '0,20'}]
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:51] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求参数代码为===》_2
+2022-09-06 23:08:19 MainThread:10116 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:60] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get', 'param': '0,20'}]
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-06 23:29:48 MainThread:9816 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get', 'param': '0,20', 'symbol': '_2'}]
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-06 23:31:58 MainThread:16672 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-06 23:32:36 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:32:36 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:32:36 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get', 'param': '0,20', 'symbol': '_2'}]
+2022-09-06 23:32:37 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:32:37 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-06 23:32:37 MainThread:6688 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-06 23:32:49 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:32:49 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:32:49 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get', 'param': '0,20', 'symbol': '_2'}]
+2022-09-06 23:32:50 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:32:50 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-06 23:32:50 MainThread:9936 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-06 23:34:46 MainThread:16184 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10244, 9749, 9782, 10334, 9916, 9961, 10292, 9586, 9595, 9618, 9636, 9898, 10470, 10222, 10236, 9996, 10043, 9789, 10312, 10347]
+2022-09-07 22:36:27 MainThread:17856 [root] INFO [D:/ProjectDemo/PythonProject/pytest_project/test_demo/RoadShow/test_RoadShowList.py:34] ==========获取路演列表接口开始测试==========
+2022-09-07 22:36:27 MainThread:17856 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 22:36:27 MainThread:17856 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 22:36:28 MainThread:17856 [root] INFO [D:/ProjectDemo/PythonProject/pytest_project/test_demo/RoadShow/test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 22:36:28 MainThread:17856 [root] INFO [D:/ProjectDemo/PythonProject/pytest_project/test_demo/RoadShow/test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 22:36:28 MainThread:17856 [root] INFO [D:/ProjectDemo/PythonProject/pytest_project/test_demo/RoadShow/test_RoadShowList.py:61] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2022-09-07 23:03:35 MainThread:2840 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:03:53 MainThread:16376 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:04:09 MainThread:6516 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:10:04 MainThread:3512 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:10:32 MainThread:11588 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:11:02 MainThread:2072 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:11:02 MainThread:2072 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:11:02 MainThread:2072 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:11:02 MainThread:2072 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://ly.sj688.cn:22011
+2022-09-07 23:11:02 MainThread:2072 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:13:16 MainThread:16168 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:13:16 MainThread:16168 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:13:16 MainThread:16168 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:13:16 MainThread:16168 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011
+2022-09-07 23:13:16 MainThread:16168 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:13:29 MainThread:18048 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:13:29 MainThread:18048 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:13:29 MainThread:18048 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:13:30 MainThread:18048 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011
+2022-09-07 23:13:30 MainThread:18048 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:13:47 MainThread:9164 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:14:00 MainThread:18160 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:14:00 MainThread:18160 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:14:00 MainThread:18160 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'ip': 'https://yunxjqly.sseinfo.com:22011', 'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:14:00 MainThread:18160 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunqzly.sseinfo.com:22011
+2022-09-07 23:14:00 MainThread:18160 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:14:21 MainThread:1608 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:14:21 MainThread:1608 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:14:21 MainThread:1608 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:14:22 MainThread:1608 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunqzly.sseinfo.com:22011
+2022-09-07 23:14:22 MainThread:1608 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:14:51 MainThread:15400 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:14:51 MainThread:15400 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:14:51 MainThread:15400 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:14:51 MainThread:15400 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求接口为===》https://yunqzly.sseinfo.com:22011
+2022-09-07 23:14:51 MainThread:15400 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:54] 请求参数代码为===》_2
+2022-09-07 23:15:09 MainThread:9440 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:15:09 MainThread:9440 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:15:09 MainThread:9440 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:15:10 MainThread:9440 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求接口为===》https://yunxjqly.sseinfo.com:22011
+2022-09-07 23:15:10 MainThread:9440 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:54] 请求参数代码为===》_2
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:54] 请求参数代码为===》_2
+2022-09-07 23:15:47 MainThread:16980 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:63] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:15:57 MainThread:3236 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:69] ==========获取嘉宾列表接口开始测试==========
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:16:44 MainThread:11724 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:67] 加载./testcase.yaml文件......
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:70] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2022-09-07 23:17:11 MainThread:16268 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [10036, 10048, 10309, 9810, 10155, 9707, 10516, 10279, 10296, 9587, 9851, 9605, 9872, 10157, 9647, 10551, 10340, 9654, 9659, 9662]
+2023-02-15 21:55:08 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2023-02-15 21:55:08 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:72] 加载./testcase.yaml文件......
+2023-02-15 21:55:08 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:75] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2023-02-15 21:55:09 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2023-02-15 21:55:09 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2023-02-15 21:55:09 MainThread:8316 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] []
+2023-02-15 22:42:26 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2023-02-15 22:42:26 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:72] 加载./testcase.yaml文件......
+2023-02-15 22:42:26 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:75] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2023-02-15 22:42:27 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2023-02-15 22:42:27 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2023-02-15 22:42:27 MainThread:6476 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] []
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:72] 加载./testcase.yaml文件......
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\Utils\read_data.py:75] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:52] 请求接口为===》https://yunxjqly.sseinfo.com:22011/v1/getRoadshow
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:53] 请求参数代码为===》_2
+2023-04-08 21:36:59 MainThread:3952 [root] INFO [D:\ProjectDemo\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:61] [12317, 12290, 12362, 12392, 12487, 12510, 12690, 12485, 12779, 12444, 12629, 12417, 12656]
+2023-12-21 13:26:46 MainThread:21036 [root] INFO [E:\workspace\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2023-12-21 13:26:46 MainThread:21036 [root] INFO [E:\workspace\PythonProject\pytest_project\Utils\read_data.py:72] 加载./testcase.yaml文件......
+2023-12-21 13:26:46 MainThread:21036 [root] INFO [E:\workspace\PythonProject\pytest_project\Utils\read_data.py:75] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]
+2023-12-21 13:27:29 MainThread:5860 [root] INFO [E:\workspace\PythonProject\pytest_project\test_demo\RoadShow\test_RoadShowList.py:33] ==========获取路演列表接口开始测试==========
+2023-12-21 13:27:29 MainThread:5860 [root] INFO [E:\workspace\PythonProject\pytest_project\Utils\read_data.py:72] 加载./testcase.yaml文件......
+2023-12-21 13:27:29 MainThread:5860 [root] INFO [E:\workspace\PythonProject\pytest_project\Utils\read_data.py:75] 读到数据===>>[{'token': 'MitakeWeb'}, {'name': '获取路演id', 'url': '/v1/getRoadshow', 'method': 'get'}, {'param': '0,20', 'symbol': '_2'}]

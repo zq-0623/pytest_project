@@ -1,0 +1,20 @@
+-
+  story: 获取统一鉴权码
+  title: ${name}
+  request:
+    memthod: get
+    url: http://www.baidu.com
+    params:
+      grant_type: ${grant_type}
+      appid: ${appid}
+      secret: ${secret}
+  extract:
+    access_token: "access_token"
+    expires_in: "expires_in"
+  parameterize:
+    parameterize_file_url: /test_data/demo.yaml
+  vaildata:
+    - status_code: 200
+    - contains: ${assert_str}
+
+

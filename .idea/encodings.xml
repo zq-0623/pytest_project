@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Utils/test_demo.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pytest.ini" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pytest2.ini" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_demo/BaseStocks/stock_bj.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_demo/RoadShow/testcase.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_demo/Stocks/stock_bj.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_demo/Stocks/stock_hz.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_demo/Stocks/stock_ine.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

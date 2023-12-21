@@ -1,0 +1,11 @@
+name: $ddt{name}
+parameterize:
+  name-url: ../testcase/case/dmiwenda.yaml
+base_url: ${read_config_yaml(dmi_test_url)}
+request:
+  method: get
+  url: $ddt{url}
+validate:
+  - equals: {status_code: 200}
+  - contains: $ddt{assert_str1}
+  - contains: $ddt{assert_str2}

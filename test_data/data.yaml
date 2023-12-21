@@ -1,0 +1,30 @@
+- account: 18875922194
+  password: zq123456
+- account: 13713631032
+  password: zq123123
+---
+name: zhaoqiang
+sex: male
+---
+name: zhaoqiang1
+sex: male1
+age:
+  - !!str 24
+...
+---
+acomplistment: >
+  Mark set a major league
+  home run record in 1998.
+status: |
+  65 Home Runs
+  0.278 Batting Average
+...
+---
+userInfo: &userinfo
+  name: zhaoqiang
+  password: "123456"
+test01:
+  name: testcase01
+  data:
+    <<: *userinfo
+...
